@@ -1,0 +1,14 @@
+# python cache files
+__pycache__/
+
+# MacOS
+.DS_Store
+
+# Executables
+*.exe
+*.out
+
+# Debug files
+*.dSYM
+*.idb
+*.pdb
